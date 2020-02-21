@@ -18,7 +18,7 @@
 
 #   end
 # end
-equire 'pry'
+require 'pry'
 
 class String
 
